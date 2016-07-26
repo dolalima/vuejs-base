@@ -1,0 +1,76 @@
+.content{
+    padding-top: 85px;
+    width: 100%;
+    height: 100%;
+    max-width: 1024px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0px;
+}
+
+.people-banner{
+    height: 50px;
+    width: 100%;
+    background: url('../img/people-banner.png');
+}
+.app-banner{
+    padding: 20px;
+    height: 80px;
+    background: #d8dede;
+}
+
+.btn.btn-facebook{
+    width: 100%;
+    background: #3a5c91;
+    border: #3a5c91;
+    color: #ffffff;
+}
+
+
+.app-banner  img{
+    top:-50px;
+    right: -100px;
+    position: relative;
+}
+
+.app-banner span{
+    font-size: large;
+    font-weight: bolder;
+}
+
+.app-banner .btn{
+    margin-left: 20px;
+}
+
+.logo{
+    position: absolute;
+    display: inline;
+    top:0px;
+    left:50%;
+    margin-left:-95px;
+}
+
+.form-content{
+    background: url('../img/background.png');
+}
+
+.form-content form{
+    padding: 85px 25px 25px 25px;
+    background: rgba(255,255,255,0.75);
+}
+
+.footer{
+    width: 100%;
+    max-width: 1024px;
+    min-height: 170px;
+    background: #adbb1d;
+    bottom: 0px;
+}
+
+.line{
+    margin-top: 10px;
+    display: block;
+    height: 1px;
+    width: 100%;
+    background: #000000;
+}
